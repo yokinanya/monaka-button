@@ -1,0 +1,60 @@
+{
+  "i18n": false,
+  "neko_mimi": true,
+  "name": {
+    "CN": {
+      "title": "monaka按钮",
+      "fullName": ""
+    },
+    "EN": {
+      "title": "Monaka Button",
+      "fullName": ""
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "img/logo.png",
+    "youtube": "",
+    "twitter": "",
+    "bilibili": "https://space.bilibili.com/692437895"
+  },
+  "link": [
+    {
+      "name": "Hiiro按钮",
+      "url": "https://hiiro.club/",
+      "background": "#F5C1BB"
+    },
+    {
+      "name": "七奈按钮",
+      "url": "https://kaguranana-button-blacktunes.vercel.app/",
+      "background": "#c4afd0"
+    },
+    {
+      "name": "塔菲按钮",
+      "url": "https://acetaffy.club/",
+      "background": "#FBADC4"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "yokinanya",
+        "url": "https://github.com/yokinanya"
+      }
+    ],
+    "info": [
+      "桃井最中monaka按钮"
+    ],
+    "githubUrl": "https://github.com/yokinanya/monaka-button"
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": ""
+}

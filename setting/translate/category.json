@@ -1,0 +1,50 @@
+[
+  {
+    "name": "未分类",
+    "translate": {
+      "zh-CN": "不知道怎么分的分类"
+    }
+  },
+  {
+    "name": "问候",
+    "translate": {
+      "zh-CN": "问候"
+    }
+  },
+  {
+    "name": "可爱",
+    "translate": {
+      "zh-CN": "可爱"
+    }
+  },
+  {
+    "name": "委屈",
+    "translate": {
+      "zh-CN": "委屈"
+    }
+  },
+  {
+    "name":"怪话",
+    "translate":{
+      "zh-CN":"怪话"
+    }
+  },
+  {
+    "name":"惊吓",
+    "translate":{
+      "zh-CN":"惊吓"
+    }
+  },
+  {
+    "name":"跳脸",
+    "translate":{
+      "zh-CN":"跳脸"
+    }
+  },
+  {
+    "name":"唱歌",
+    "translate":{
+      "zh-CN":"唱歌"
+    }
+  }
+]
