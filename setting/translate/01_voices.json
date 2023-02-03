@@ -392,6 +392,14 @@
     "category":"可爱"
   },
   {
+    "name":"好甜，像你一样",
+    "path":"好甜像你一样.mp3",
+    "translate":{
+      "zh-CN":"好甜，像你一样"
+    },
+    "category":"可爱"
+  },
+  {
     "name":"都不理mnk了",
     "path":"都不理mnk了.mp3",
     "translate":{
@@ -528,6 +536,22 @@
     "category":"怪话"
   },
   {
+    "name":"哼哼哼啊啊啊啊啊啊",
+    "path":"目力mnk.mp3",
+    "translate":{
+      "zh-CN":"哼哼哼啊啊啊啊啊啊"
+    },
+    "category":"怪话"
+  },
+  {
+    "name":"你是一个一个一个",
+    "path":"你是一个一个.mp3",
+    "translate":{
+      "zh-CN":"你是一个一个一个"
+    },
+    "category":"怪话"
+  },
+  {
     "name":"啊！",
     "path":"啊！.mp3",
     "translate":{
@@ -548,6 +572,14 @@
     "path":"woc好高.mp3",
     "translate":{
       "zh-CN":"woc好高"
+    },
+    "category":"惊吓"
+  },
+  {
+    "name":"你别乱说啊啊！！",
+    "path":"你别乱说啊啊.mp3",
+    "translate":{
+      "zh-CN":"你别乱说啊啊！！"
     },
     "category":"惊吓"
   },
@@ -646,5 +678,21 @@
       "zh-CN":"当当当当当当当~"
     },
     "category":"唱歌"
+  },
+  {
+    "name":"Last Christmas",
+    "path":"Last Christmas.mp3",
+    "translate":{
+      "zh-CN":"Last Christmas"
+    },
+    "category":"唱歌"
+  },
+  {
+    "name":"贼将休走，可敢与我一战！",
+    "path":"贼将休走，可敢与我一战.mp3",
+    "translate":{
+      "zh-CN":"贼将休走，可敢与我一战！"
+    },
+    "category":"台词"
   }
 ]

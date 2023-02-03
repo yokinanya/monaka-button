@@ -46,5 +46,11 @@
     "translate":{
       "zh-CN":"唱歌"
     }
+  },
+  {
+    "name":"台词",
+    "translate":{
+      "zh-CN":"台词"
+    }
   }
 ]
