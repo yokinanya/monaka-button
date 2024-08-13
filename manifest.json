@@ -4,7 +4,7 @@
   "description": "Monaka BUTTON PWA",
   "icons": [
     {
-      "src": "https://monaka.yokinanya.icu/resources/logo.png",
+      "src": "https://monaka.yokinanya.icu/img/logo.png",
       "sizes": "162x162",
       "type": "image/png"
     }
