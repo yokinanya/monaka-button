@@ -30,6 +30,11 @@
       "background": "#c4afd0"
     },
     {
+      "name": "余按钮",
+      "url": "https://ayame.yokinanya.icu/",
+      "background": "#fd325a"
+    },
+    {
       "name": "塔菲按钮",
       "url": "https://acetaffy.club/",
       "background": "#FBADC4"
@@ -42,9 +47,7 @@
         "url": "https://github.com/yokinanya"
       }
     ],
-    "info": [
-      "桃井最中monaka按钮"
-    ],
+    "info": ["桃井最中monaka按钮"],
     "githubUrl": "https://github.com/yokinanya/monaka-button"
   },
   "console": {
