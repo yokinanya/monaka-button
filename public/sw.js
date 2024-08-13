@@ -1,6 +1,6 @@
 'use strict'
 var cacheStorageKey = 'minimal-pwa-8'
-let cacheName = 'pwa-ayame-cache'; // 缓存名字
+let cacheName = 'pwa-monaka-cache'; // 缓存名字
 
 var cacheList = [ // 所需缓存的文件
     '/',
