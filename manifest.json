@@ -1,0 +1,18 @@
+{
+  "name": "桃井最中Monaka按钮",
+  "short_name": "Monaka按钮",
+  "description": "Monaka BUTTON PWA",
+  "icons": [
+    {
+      "src": "https://monaka.yokinanya.icu/resources/logo.png",
+      "sizes": "162x162",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#ffc0cb",
+  "theme_color": "#ffc0cb",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/"
+}
