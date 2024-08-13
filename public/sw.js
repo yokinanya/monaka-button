@@ -38,6 +38,7 @@ const CACHE_STRATEGY = {
     css_js: 'cacheFirst',
     images: 'cacheFirst',
     fonts: 'cacheFirst',
+    media: 'cacheFirst',
 }
 
 const CACHE_BLACKLIST = [
@@ -640,6 +641,9 @@ self.addEventListener(
                     break;
                 case 'font':
                     cachingStrategyType = CACHE_STRATEGY.fonts;
+                    break;
+                case 'media':
+                    cachingStrategyType = CACHE_STRATEGY.media;
                     break;
                 // All `XMLHttpRequest` or `fetch()` calls where
                 // `Request.destination` is the empty string default value
