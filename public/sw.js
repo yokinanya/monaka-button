@@ -30,6 +30,7 @@ const MAX_TTL = {
     css: 86400,
     png: 86400,
     jpg: 86400,
+    mp3: 86400,
 };
 
 const CACHE_STRATEGY = {
