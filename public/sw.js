@@ -1,19 +1,19 @@
 const CACHE_VERSION = '1.2.1';
 
 const BASE_CACHE_FILES = [
-    'https://monaka.yokinanya.icu/img/logo.png',
+    'https://monaka.ruau.top/img/logo.png',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    'https://monaka.yokinanya.icu/',
+    'https://monaka.ruau.top/',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    'https://monaka.yokinanya.icu/',
+    'https://monaka.ruau.top/',
 ];
 
-const OFFLINE_PAGE = 'https://monaka.yokinanya.icu/';
-const NOT_FOUND_PAGE = 'https://monaka.yokinanya.icu/';
+const OFFLINE_PAGE = 'https://monaka.ruau.top/';
+const NOT_FOUND_PAGE = 'https://monaka.ruau.top/';
 
 const CACHE_VERSIONS = {
     content: 'content-v' + CACHE_VERSION,
